@@ -15,6 +15,9 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <build>
+	<finalName>devops1</finalName>
+  </build>
   <properties>
     <maven.compiler.source>1.6</maven.compiler.source>
     <maven.compiler.target>1.6</maven.compiler.target>
